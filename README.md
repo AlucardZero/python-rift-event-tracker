@@ -1,3 +1,8 @@
+# MOVED - UPDATE YOUR LINKS
+
+https://github.com/chennin
+
+
 # Simple RIFT event tracker
 
 Written in Python. Just mirrors the RIFT web API 1:1 and does minimal formatting, nothing too fancy. Ugly CSS.
